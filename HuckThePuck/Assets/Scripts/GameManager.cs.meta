@@ -3,8 +3,11 @@ guid: 54a000792783c934885973b761b3f96f
 timeCreated: 1441706275
 licenseType: Store
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - m_MessageText: {instanceID: 0}
+  - m_PuckPrefab: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
