@@ -20,3 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/End of Lvl2.unity
     guid: 56988ec2ba405434cae74443f2a2d99b
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: e21f0fe5eb4e968429f389bc9cc7c24b
+  - enabled: 1
+    path: Assets/Scenes/End of Lvl3.unity
+    guid: b79c50923a1a6d84aacf1c5fb36cd020
+  - enabled: 1
+    path: Assets/Scenes/End of Game.unity
+    guid: eb0984fb5dc33384799c94de7d4d4eb4
