@@ -11,4 +11,9 @@ public class MainMenu : MonoBehaviour
         Debug.Log("Play Press");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }
